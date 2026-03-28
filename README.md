@@ -1,2 +1,2 @@
-# onemaya-website
+# onemaya
 AI-powered platform to learn, share, and earn through books and discussions.
